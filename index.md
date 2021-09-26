@@ -51,7 +51,7 @@
     <div class="header poppfont">
       <h1 class="titolo">Sloowy Discord-Bot</h1>
         <p class="descHeader">BOT DISCORD - SENZA API YOUTUBE (NO BAN) GRATUITO ONLINE 24H!!</p>
-        <a class="btn btn-primary btn-lg" href="https://discord.com/oauth2/authorize?client_id=8822168927256084486&amp;permissions=8&amp;scope=bot" target="_blank" role="button"><i class="fas fa-link"></i>Invita Sloowy</a>
+        <a class="btn btn-primary btn-lg" href="https://discord.com/api/oauth2/authorize?client_id=882216892725608448&permissions=0&scope=bot" target="_blank" role="button"><i class="fas fa-link"></i>Invita Sloowy</a>
         <a class="btn btn-secondary btn-lg" href="https://discord.gg/KX5MJJy6cc" target="_blank" role="button"><i class="fas fa-hands-helping"></i>Supporto</a>
         <p style="margin-top: 15px;">
         <p></p>
