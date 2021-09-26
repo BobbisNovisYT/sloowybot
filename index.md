@@ -1,5 +1,5 @@
 <html><head>
-    <title>ChilllWumpusHouse • Home</title>
+    <title>Sloowy Bot • Home</title>
     <meta charset="UTF-8">
     <meta name="theme-color" content="#7289DA"><meta name="viewport" content="width=device-width, initial-scale=1">
     
