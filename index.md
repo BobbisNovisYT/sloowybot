@@ -62,7 +62,7 @@
     <div class="discord-widget w3-center">
         <h1 class="discord-server">DISCORD SERVER (ANTERPRIMA)</h1>
 
-        <iframe src="https://discord.com/widget?id=814977677625655306&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+    <iframe src="https://discord.com/widget?id=814977677625655306&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
     </div>
 
 </body></html>
