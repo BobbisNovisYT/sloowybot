@@ -3,13 +3,13 @@
     <meta charset="UTF-8">
     <meta name="theme-color" content="#7289DA"><meta name="viewport" content="width=device-width, initial-scale=1">
     
-    <meta property="og:title" content="ChillWumpusHouse • Home">
-    <meta property="og:url" content="https://chillwumpushouse.tk">
+    <meta property="og:title" content="Sloowy • Home">
+    <meta property="og:url" content="https://sloowybot.tk">
     <meta property="og:image" content="https://images-ext-2.discordapp.net/external/FRkvd39DGN6SCB7ouzN64000Ro5YUDcw96AJIBkYVew/%3Fwidth%3D379%26height%3D355/https/media.discordapp.net/attachments/728657405168320542/752555145640017970/DmKNuMwXsAAE2qO.png?width=254&height=238">
     <meta property="og:description" content="Sito Ufficiale di ChilllWumpusHouse!">
     <meta name="keywords" content="sterlex bot,discord bot,sterlex discord,sterlex discord bot,sterlex bot discord,sterlexbot,sterlex.tk,sterlexbottk,sterlexbot discord,sterlex discordbot,fun,moderation,giveaways,free,memes,gifs,utiliy,chill,sterlex top.gg">
-    <meta name="subject" content="ChilllWumpusHouse">
-    <meta name="description" content="ChillwumpusHouse Sito Ufficiale. Invita il bot nel tuo server ed entra nel nostro discord per ricevere gli ultimi aggiornamenti del bot!">
+    <meta name="subject" content="Sloowy Bot">
+    <meta name="description" content="SloowyBot Sito Ufficiale. Invita il bot nel tuo server ed entra nel nostro discord per ricevere gli ultimi aggiornamenti del bot!">
     <link rel="stylesheet" type="text/css" href="/src/css/index.css">
     <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,600,700,800,900&amp;display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,600,700,800,900&amp;display=swap" rel="stylesheet">
