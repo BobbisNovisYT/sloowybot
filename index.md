@@ -53,7 +53,6 @@
         <p class="descHeader">BOT DISCORD - SENZA API YOUTUBE (NO BAN) GRATUITO ONLINE 24H!!</p>
         <a class="btn btn-primary btn-lg" href="https://discord.com/oauth2/authorize?client_id=8822168927256084486&amp;permissions=8&amp;scope=bot" target="_blank" role="button"><i class="fas fa-link"></i>Invita Sloowy</a>
         <a class="btn btn-secondary btn-lg" href="https://discord.gg/KX5MJJy6cc" target="_blank" role="button"><i class="fas fa-hands-helping"></i>Supporto</a>
-                <a class="btn btn-primary btn-lg" href="ComandiBot.html" target="_blank" role="button"><i class="fas fa-list"></i>Comandi BOT</a>
         <p style="margin-top: 15px;">
         <p></p>
     </div>
