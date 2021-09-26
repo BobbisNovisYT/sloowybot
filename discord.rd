@@ -6,7 +6,7 @@
 
 <body>
   <script>
-    window.location.replace("https://discord.com/invite/INVITECODE");
+    window.location.replace("https://discord.com/invite/KX5MJJy6cc");
   </script>
 </body>
 
