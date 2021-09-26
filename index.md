@@ -28,19 +28,6 @@
         color: #fff;
     }
     </style>
-
-    <script src="https://cdn.jsdelivr.net/npm/@widgetbot/crate@3" async="" defer="">
-    new Crate({
-        server: '503190685118103574',
-        channel: '707324440752685106'
-    })
-
-    crate.notify({
-        content: "Hey, benvenuto!",
-        timeout: "3000",
-        avatar: "https://cdn.discordapp.com/avatars/537238532494852097/a_ccc11b8b8dd2829a2856459751ab7928.gif?size=1024"
-    })
-    </script>
 <style data-emotion=""></style></head>
 <body>
     <nav class="navbar bg-transparent navbar-expand-lg">
@@ -62,10 +49,10 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.0/css/all.css" integrity="sha384-Mmxa0mLqhmOeaE8vgOSbKacftZcsNYDjQzuCOm6D02luYSzBG8vpaOykv9lFQ51Y" crossorigin="anonymous">
 
     <div class="header poppfont">
-      <h1 class="titolo">ChilllWumpusHouse</h1>
-        <p class="descHeader">Visione di Film ogni sabato (ovviamente scelto dalla community). Inoltre potrai trovare una categoria dedicata ai giochi e una community molto attiva e in grande crescita. Ovviamente ci sono give ma a questo abbiamo aggiunto anche dei rewards di Vip, Account, Key e Giochi di Discord.<br>Non possono mancare i bot funny come Aki, Unbilieva con cui puoi prendere Vip, Idle Miner e molto altro.<br>Abbiamo anche 60 emoji per far si che ti possa esprimere anche sfoggiando delle semplici immagini. Forniamo anche, come tutti, un servizio di partnership e professionalità nello staff.<br>E' reperibile anche un RolePlay molto speciale (Inazuma Eleven) primo nel suo genere su Discord Italia.</p>
-        <a class="btn btn-primary btn-lg" href="https://discord.com/oauth2/authorize?client_id=729701120854982706&amp;permissions=8&amp;scope=bot" target="_blank" role="button"><i class="fas fa-link"></i>Invita WumpusBot</a>
-        <a class="btn btn-secondary btn-lg" href="https://discord.gg/jxh2qxu" target="_blank" role="button"><i class="fas fa-hands-helping"></i>Supporto</a>
+      <h1 class="titolo">Sloowy Discord-Bot</h1>
+        <p class="descHeader">BOT DISCORD - SENZA API YOUTUBE (NO BAN) GRATUITO ONLINE 24H!!</p>
+        <a class="btn btn-primary btn-lg" href="https://discord.com/oauth2/authorize?client_id=8822168927256084486&amp;permissions=8&amp;scope=bot" target="_blank" role="button"><i class="fas fa-link"></i>Invita Sloowy</a>
+        <a class="btn btn-secondary btn-lg" href="https://discord.gg/KX5MJJy6cc" target="_blank" role="button"><i class="fas fa-hands-helping"></i>Supporto</a>
                 <a class="btn btn-primary btn-lg" href="ComandiBot.html" target="_blank" role="button"><i class="fas fa-list"></i>Comandi BOT</a>
         <p style="margin-top: 15px;">
         <p></p>
@@ -75,7 +62,7 @@
     <div class="discord-widget w3-center">
         <h1 class="discord-server">DISCORD SERVER (ANTERPRIMA)</h1>
 
-        <iframe src="https://discordapp.com/widget?id=503190685118103574&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+        <iframe src="https://discord.com/widget?id=814977677625655306&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
     </div>
 
 </body></html>
